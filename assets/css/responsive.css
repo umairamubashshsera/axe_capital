@@ -1,0 +1,185 @@
+
+@media (min-width: 320px) and (max-width: 480px) {
+/*Top Bar start*/
+/*===============nav_bar_outer=================*/ 
+    .navbar-nav {
+        padding-bottom: 20px;
+    }    
+.navbar-brand img {
+    margin:0px;
+    width: 195px !important;
+}
+   .horizontal_first_section {
+    padding-left: 0px !important;
+} 
+  .first_section h3 {
+    font-size: 32px;
+    line-height: 45px;
+    }
+    .horizontal-scroll-section__content-section {
+   min-width: 300px;
+    }
+    .img_section_outer h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .last_pra h3 {
+    font-size: 32px;
+    line-height: 45px;
+    }
+    .last_pra p {
+    font-size: 20px;
+        line-height: 38px
+    }
+    .last_pra .contnt_btn {
+        font-size: 14px;
+    }
+    .contact_outer ul li p {
+    font-size: 20px;
+    }
+}/*Mobile device max-width 480px; */
+
+/*====================================================================================================================*/
+
+/*=======================================MEdia Query 2 start max-width 767px=========================================*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+   .navbar-nav {
+        padding-bottom: 20px;
+    }    
+.navbar-brand img {
+    margin:0px;
+    width: 250px !important;
+}
+    .navbar-brand img {
+    margin-left: 0px;
+}
+    
+   .horizontal_first_section {
+    padding-left: 0px !important;
+} 
+  .first_section h3 {
+    font-size: 45px;
+    line-height: 55px;
+    }
+     .horizontal-scroll-section__content-section {
+   min-width:400px;
+    }
+    .img_section_outer h3 {
+        font-size:32px;
+        line-height: 38px;
+    }
+    .last_pra h3 {
+    font-size: 45px;
+    line-height: 55px;
+    }
+    .last_pra p {
+    font-size: 24px;
+        line-height: 38px
+    }
+    .last_pra .contnt_btn {
+        font-size: 16px;
+    }
+    .contact_outer ul li p {
+    font-size: 24px;
+    }
+
+
+
+}/*Tab device max-width 767px; */
+/*====================================================================================================================*/
+/*=======================================MEdia Query 3 start max-width 991px=========================================*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+   .navbar-nav {
+        padding-bottom: 20px;
+    }    
+.navbar-brand img {
+    margin:0px;
+    width: 250px !important;
+}
+   .horizontal_first_section {
+    padding-left: 0px !important;
+} 
+  .first_section h3 {
+    font-size: 60px;
+    line-height: 70px;
+    }
+    .horizontal-scroll-section__content-section {
+   min-width: 600px;
+    }
+    .img_section_outer h3 {
+        font-size:32px;
+        line-height: 38px;
+    }
+    .last_pra h3 {
+    font-size: 60px;
+        line-height: 70px;
+    }
+    .last_pra p {
+    font-size: 24px;
+        line-height: 38px
+    }
+    .last_pra .contnt_btn {
+        font-size: 16px;
+    }
+    .contact_outer ul li p {
+    font-size: 24px;
+    }
+
+
+
+  
+}
+/*==================================================================================================================*/
+@media (max-width: 991px) {
+/*	
+}
+/*=======================================MEdia Query 3 start max-width 1200px=========================================*/
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+
+/*==================================================================================================================*/
+/*=======================================MEdia Query 3 start max-width 1400px=========================================*/
+@media (min-width: 1201px) and (max-width: 1400px) {
+ 
+    }    
+
+
+
+/*==================================================================================================================*/
+/*=======================================MEdia Query 3 start max-width 1400px=========================================*/
+@media (min-width: 1401px) and (max-width: 1600px) {
+
+    /*navbar*/
+     .first_section h3 {
+    font-size: 80px !important;
+    }
+
+}
+
+
+/*=======================================MEdia Query 3 start max-width 1600px=========================================*/
+/*only for icon hidess*/
+
+/* Large screens ----------- */
+@media only screen
+and (min-width : 1800px) {
+/* STYLES GO HERE */
+    .first_section h3 {
+    font-size: 80px;
+    }
+
+}
+
+
+@media (min-width: 800px) and (max-width: 3000px) {
+
+ 
+
+
+}
